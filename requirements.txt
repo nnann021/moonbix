@@ -3,3 +3,5 @@ colorama
 requests
 requests[socks]
 crayons
+fake_useragent
+smart_airdrop_claimer
